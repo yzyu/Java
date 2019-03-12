@@ -13,6 +13,7 @@ public class add {
 	public static void main(String[] args) {
 		jia(3);
 		jia(5);
+		System.out.println("修复iss55bug");
 	}
 
 }
