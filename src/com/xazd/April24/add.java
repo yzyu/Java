@@ -1,4 +1,3 @@
- 
 package com.xazd.April24;
 
 public class add {
@@ -12,7 +11,7 @@ public class add {
 	}
 
 	public static void main(String[] args) {
-		jia(3);		
+		jia(3);
 		System.out.println("修复紧急bug");
 	}
 
