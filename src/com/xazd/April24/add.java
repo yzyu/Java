@@ -14,6 +14,7 @@ public class add {
 		jia(3);
 		System.out.println("修复紧急bug");
 		System.out.println("修复iss55bug");
+		System.out.println("增加新功能");
 	}
 
 }
