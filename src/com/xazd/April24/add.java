@@ -12,7 +12,6 @@ public class add {
 
 	public static void main(String[] args) {
 		jia(3);
-		jia(5);
 	}
 
 }
